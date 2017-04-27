@@ -1,0 +1,23 @@
+{
+  "name": "movie-finder",
+  "version": "1.0.0",
+  "description": "Movie Finder",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adam Clark",
+  "license": "ISC",
+  "devDependencies": {
+    "browserify": "^13.0.1",
+    "flux": "^2.1.1",
+    "gulp": "^3.9.1",
+    "object-assign": "^4.1.0",
+    "reactify": "^1.1.1",
+    "vinyl-source-stream": "^1.1.0"
+  },
+  "dependencies": {
+    "react": "^15.1.0",
+    "react-dom": "^15.1.0"
+  }
+}
